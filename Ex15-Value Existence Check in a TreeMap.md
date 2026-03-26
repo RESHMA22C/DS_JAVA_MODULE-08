@@ -5,6 +5,7 @@ To write a Java program that checks whether a given value exists in a TreeMap.
 ## Algorithm:
 
 1. Create a TreeMap to store key–value pairs.
+   
 2. Insert some sample key–value pairs into the TreeMap.
    
 3.Display the contents of the TreeMap.
